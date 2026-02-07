@@ -1,1 +1,3 @@
-this is a new line
+eda
+csv file from Kaggle
+Titanic , breast cancer , house price predication 
